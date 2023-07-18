@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e49bd4900922b7b45b80717721b24add, type: 3}
+  m_Name: DefaultCandiesData
+  m_EditorClassIdentifier: 
+  _candyData:
+  - Name: Red
+    CandyType: 1
+    Sprite: {fileID: 21300000, guid: a9397baba36037342b84055fdc11cad6, type: 3}
+  - Name: Blue
+    CandyType: 2
+    Sprite: {fileID: 21300000, guid: 5eae8a509c30e4a4aabbb769594e55f4, type: 3}
+  - Name: Green
+    CandyType: 3
+    Sprite: {fileID: 21300000, guid: aaa10e3a9b2110c4e960a8eaca6e4317, type: 3}
+  - Name: Purple
+    CandyType: 4
+    Sprite: {fileID: 21300000, guid: b990290d488981e4daef720df21cac96, type: 3}
+  - Name: Orange
+    CandyType: 5
+    Sprite: {fileID: 21300000, guid: fc974b9f7c9001144b7be0e6577a3e63, type: 3}
+  - Name: Yellow
+    CandyType: 6
+    Sprite: {fileID: 21300000, guid: e791830e0851e7b4bab58d48b8358c02, type: 3}
